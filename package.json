@@ -1,0 +1,36 @@
+{
+  "name": "onedecision",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olayinka Olusegun",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server public/",
+    "build": "webpack",
+    "dev-server": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "core-js": "3",
+    "css-loader": "^3.6.0",
+    "live-server": "^1.2.1",
+    "node-sass": "^4.14.1",
+    "normalize.css": "^8.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-modal": "^3.11.2",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "validator": "^13.1.1",
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
