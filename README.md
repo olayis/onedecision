@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="public/android-chrome-512x512.png" alt="Logo" width="80" height="80">
+  <img src="public/img/logo.png" alt="Logo" width="80" height="80">
   
   <h3 align="center">OneDecision</h3>
 
